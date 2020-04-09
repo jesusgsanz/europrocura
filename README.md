@@ -1,2 +1,2 @@
 # europrocura
-#css de la tabla gastos de Google sites
+css de la tabla gastos de Google sites
