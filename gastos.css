@@ -2,7 +2,7 @@ tbody>tr>:nth-child(2){
  color:red;
 !important;
 }
-.QTKDff {color:green; !important;}
+.QTKDff span {color:green; !important;}
 #at-button-open-edit {display: none; !important;}
 
 
