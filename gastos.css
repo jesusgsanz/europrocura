@@ -1,8 +1,9 @@
+<style type="text/css">
 tbody>tr>:nth-child(2){
  color:red;
 !important;
 }
 .QTKDff span {color:green; !important;}
 #at-button-open-edit {display: none; !important;}
-
+</style>
 
