@@ -3,6 +3,6 @@ tbody>tr>:nth-child(2){
  width:200px;
  text-align:center; !important;
 }
-#at-button-open-edit a {display: none; !important;}
+#at-button-open-edit {display: none; !important;}
 
 
