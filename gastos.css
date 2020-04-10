@@ -1,8 +1,5 @@
-tbody>tr>:nth-child(2){
- color:red;
-!important;
-}
-#atIdViewHeader.QTKDff{color:green; !important;}
+tbody>tr>:nth-child(1){color:red; !important;}
+#atIdViewHeader{color:green; !important;}
 #at-button-open-edit {display: none; !important;}
 
 
